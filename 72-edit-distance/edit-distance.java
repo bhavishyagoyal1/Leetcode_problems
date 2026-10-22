@@ -1,28 +1,30 @@
 class Solution {
+    // top down
     public int minDistance(String word1, String word2) {
-        char[]str1=word1.toCharArray();
-        char[]str2=word2.toCharArray();
-        int[][]temp=new int[str1.length+1][str2.length+1];
-        for(int i=0;i<temp[0].length;i++){
-            temp[0][i]=i;
+        int [][]dp = new int[word1.length()+1][word2.length()+1];
+        for(int []row : dp){
+            Arrays.fill(row,-1);
         }
-        for(int i=0;i<temp.length;i++){
-            temp[i][0]=i;
-        }
-        for(int i=1;i<=str1.length;i++){
-            for(int j=1;j<=str2.length;j++){
-                if(str1[i-1]==str2[j-1]){
-                    temp[i][j]=temp[i-1][j-1];
-                }
-                else{
-                    temp[i][j]=1+min(temp[i-1][j-1],temp[i-1][j],temp[i][j-1]);
-                }
-            }
-        }
-        return temp[str1.length][str2.length];
+        return minOps(word1,word2,0,0,dp);
     }
-    public int min(int a,int b,int c){
-        int l=Math.min(a,b);
-        return Math.min(l,c);
+    public int minOps(String s,String t,int i,int j ,int [][]dp){
+
+        if(i == s.length()) return t.length() - j;
+        if(j == t.length()) return s.length() - i;
+
+        if(dp[i][j] != -1) return dp[i][j];
+
+        int ans = 0;
+        if(s.charAt(i) == t.charAt(j)){
+            ans = minOps(s,t,i+1,j+1,dp);
+        }else{
+            int d  = minOps(s,t,i+1,j,dp);
+            int r  = minOps(s,t,i+1,j+1,dp);
+            int in = minOps(s,t,i,j+1,dp);
+
+            ans = Math.min(d,Math.min(r,in)) + 1;
+        }
+
+        return dp[i][j] = ans;
     }
 }
