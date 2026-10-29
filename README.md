@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/bhavishyagoyal1/Leetcode_problems/tree/master/0239-sliding-window-maximum) |
+| [1539-kth-missing-positive-number](https://github.com/bhavishyagoyal1/Leetcode_problems/tree/master/1539-kth-missing-positive-number) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/bhavishyagoyal1/Leetcode_problems/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Depth-First Search
 |  |
@@ -42,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/bhavishyagoyal1/Leetcode_problems/tree/master/0239-sliding-window-maximum) |
+## Binary Search
+|  |
+| ------- |
+| [1539-kth-missing-positive-number](https://github.com/bhavishyagoyal1/Leetcode_problems/tree/master/1539-kth-missing-positive-number) |
 <!---LeetCode Topics End-->
