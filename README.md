@@ -46,5 +46,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0887-super-egg-drop](https://github.com/bhavishyagoyal1/Leetcode_problems/tree/master/0887-super-egg-drop) |
 | [1539-kth-missing-positive-number](https://github.com/bhavishyagoyal1/Leetcode_problems/tree/master/1539-kth-missing-positive-number) |
+## Math
+|  |
+| ------- |
+| [0887-super-egg-drop](https://github.com/bhavishyagoyal1/Leetcode_problems/tree/master/0887-super-egg-drop) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0887-super-egg-drop](https://github.com/bhavishyagoyal1/Leetcode_problems/tree/master/0887-super-egg-drop) |
 <!---LeetCode Topics End-->
