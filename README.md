@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/bhavishyagoyal1/Leetcode_problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0198-house-robber](https://github.com/bhavishyagoyal1/Leetcode_problems/tree/master/0198-house-robber) |
 | [0239-sliding-window-maximum](https://github.com/bhavishyagoyal1/Leetcode_problems/tree/master/0239-sliding-window-maximum) |
 | [1539-kth-missing-positive-number](https://github.com/bhavishyagoyal1/Leetcode_problems/tree/master/1539-kth-missing-positive-number) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/bhavishyagoyal1/Leetcode_problems/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0198-house-robber](https://github.com/bhavishyagoyal1/Leetcode_problems/tree/master/0198-house-robber) |
 | [0887-super-egg-drop](https://github.com/bhavishyagoyal1/Leetcode_problems/tree/master/0887-super-egg-drop) |
 ## Divide and Conquer
 |  |
