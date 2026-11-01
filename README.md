@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/bhavishyagoyal1/Leetcode_problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0198-house-robber](https://github.com/bhavishyagoyal1/Leetcode_problems/tree/master/0198-house-robber) |
 | [0239-sliding-window-maximum](https://github.com/bhavishyagoyal1/Leetcode_problems/tree/master/0239-sliding-window-maximum) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/bhavishyagoyal1/Leetcode_problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1539-kth-missing-positive-number](https://github.com/bhavishyagoyal1/Leetcode_problems/tree/master/1539-kth-missing-positive-number) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/bhavishyagoyal1/Leetcode_problems/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Depth-First Search
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/bhavishyagoyal1/Leetcode_problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0887-super-egg-drop](https://github.com/bhavishyagoyal1/Leetcode_problems/tree/master/0887-super-egg-drop) |
 ## Dynamic Programming
 |  |
