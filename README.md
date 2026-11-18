@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/bhavishyagoyal1/Leetcode_problems/tree/master/1143-longest-common-subsequence) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/bhavishyagoyal1/Leetcode_problems/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 ## Longest Common Subsequence
 |  |
 | ------- |
