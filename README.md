@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0312-burst-balloons](https://github.com/bhavishyagoyal1/Leetcode_problems/tree/master/0312-burst-balloons) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/bhavishyagoyal1/Leetcode_problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1539-kth-missing-positive-number](https://github.com/bhavishyagoyal1/Leetcode_problems/tree/master/1539-kth-missing-positive-number) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/bhavishyagoyal1/Leetcode_problems/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/bhavishyagoyal1/Leetcode_problems/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/bhavishyagoyal1/Leetcode_problems/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Depth-First Search
@@ -116,8 +117,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/bhavishyagoyal1/Leetcode_problems/tree/master/0056-merge-intervals) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/bhavishyagoyal1/Leetcode_problems/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Quicksort
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/bhavishyagoyal1/Leetcode_problems/tree/master/0056-merge-intervals) |
+## Greedy
+|  |
+| ------- |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/bhavishyagoyal1/Leetcode_problems/tree/master/2567-minimum-score-by-changing-two-elements) |
 <!---LeetCode Topics End-->
