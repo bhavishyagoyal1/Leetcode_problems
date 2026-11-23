@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/bhavishyagoyal1/Leetcode_problems/tree/master/0239-sliding-window-maximum) |
 | [0312-burst-balloons](https://github.com/bhavishyagoyal1/Leetcode_problems/tree/master/0312-burst-balloons) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/bhavishyagoyal1/Leetcode_problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [1352-product-of-the-last-k-numbers](https://github.com/bhavishyagoyal1/Leetcode_problems/tree/master/1352-product-of-the-last-k-numbers) |
 | [1539-kth-missing-positive-number](https://github.com/bhavishyagoyal1/Leetcode_problems/tree/master/1539-kth-missing-positive-number) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/bhavishyagoyal1/Leetcode_problems/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/bhavishyagoyal1/Leetcode_problems/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/bhavishyagoyal1/Leetcode_problems/tree/master/0002-add-two-numbers) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/bhavishyagoyal1/Leetcode_problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0887-super-egg-drop](https://github.com/bhavishyagoyal1/Leetcode_problems/tree/master/0887-super-egg-drop) |
+| [1352-product-of-the-last-k-numbers](https://github.com/bhavishyagoyal1/Leetcode_problems/tree/master/1352-product-of-the-last-k-numbers) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/bhavishyagoyal1/Leetcode_problems/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Dynamic Programming
 |  |
@@ -127,4 +129,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/bhavishyagoyal1/Leetcode_problems/tree/master/2567-minimum-score-by-changing-two-elements) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/bhavishyagoyal1/Leetcode_problems/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/bhavishyagoyal1/Leetcode_problems/tree/master/1352-product-of-the-last-k-numbers) |
+## Prefix Sum
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/bhavishyagoyal1/Leetcode_problems/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
