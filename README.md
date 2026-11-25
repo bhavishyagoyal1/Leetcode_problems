@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/bhavishyagoyal1/Leetcode_problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0887-super-egg-drop](https://github.com/bhavishyagoyal1/Leetcode_problems/tree/master/0887-super-egg-drop) |
 | [1352-product-of-the-last-k-numbers](https://github.com/bhavishyagoyal1/Leetcode_problems/tree/master/1352-product-of-the-last-k-numbers) |
+| [2523-closest-prime-numbers-in-range](https://github.com/bhavishyagoyal1/Leetcode_problems/tree/master/2523-closest-prime-numbers-in-range) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/bhavishyagoyal1/Leetcode_problems/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/bhavishyagoyal1/Leetcode_problems/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Dynamic Programming
@@ -151,5 +152,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [2523-closest-prime-numbers-in-range](https://github.com/bhavishyagoyal1/Leetcode_problems/tree/master/2523-closest-prime-numbers-in-range) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/bhavishyagoyal1/Leetcode_problems/tree/master/3411-maximum-subarray-with-equal-products) |
+## Primality Test
+|  |
+| ------- |
+| [2523-closest-prime-numbers-in-range](https://github.com/bhavishyagoyal1/Leetcode_problems/tree/master/2523-closest-prime-numbers-in-range) |
+## Sieve Theory
+|  |
+| ------- |
+| [2523-closest-prime-numbers-in-range](https://github.com/bhavishyagoyal1/Leetcode_problems/tree/master/2523-closest-prime-numbers-in-range) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [2523-closest-prime-numbers-in-range](https://github.com/bhavishyagoyal1/Leetcode_problems/tree/master/2523-closest-prime-numbers-in-range) |
 <!---LeetCode Topics End-->
