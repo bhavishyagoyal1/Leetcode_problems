@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/bhavishyagoyal1/Leetcode_problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/bhavishyagoyal1/Leetcode_problems/tree/master/0011-container-with-most-water) |
 | [0056-merge-intervals](https://github.com/bhavishyagoyal1/Leetcode_problems/tree/master/0056-merge-intervals) |
 | [0174-dungeon-game](https://github.com/bhavishyagoyal1/Leetcode_problems/tree/master/0174-dungeon-game) |
 | [0198-house-robber](https://github.com/bhavishyagoyal1/Leetcode_problems/tree/master/0198-house-robber) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/bhavishyagoyal1/Leetcode_problems/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/bhavishyagoyal1/Leetcode_problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 ## Sorting
 |  |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/bhavishyagoyal1/Leetcode_problems/tree/master/0011-container-with-most-water) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/bhavishyagoyal1/Leetcode_problems/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Design
 |  |
